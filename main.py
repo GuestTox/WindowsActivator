@@ -1,4 +1,3 @@
-import subprocess, os
 from random import choice
 from time import sleep
 from tkinter import *
